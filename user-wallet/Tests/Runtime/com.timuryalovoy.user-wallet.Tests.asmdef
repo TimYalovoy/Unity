@@ -1,0 +1,17 @@
+{
+    "name": "com.timuryalovoy.user-wallet.Tests",
+    "references": [
+        "GUID:503a4049663b9d140a8cfbb333f78edd"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

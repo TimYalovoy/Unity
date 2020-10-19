@@ -1,0 +1,16 @@
+{
+  "name": "com.timuryalovoy.user-wallet",
+  "version": "1.0.0",
+  "displayName": "User Wallet",
+  "description": "Test task for writing a custom package for a user's wallet",
+  "unity": "2019.1",
+  "keywords": [
+    "wallet",
+    "currency",
+    "test"
+  ],
+  "author": {
+    "name": "Timur Yalovoy",
+    "email": "tim_yalovoy@mail.ru"
+  }
+}
